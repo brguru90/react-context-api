@@ -1,5 +1,5 @@
 import React from 'react';
-import Page from "../components/page1.jsx"
+import Page from "../components/comp1.jsx"
 import MyContext from "../context_api/MyContext"
 
 

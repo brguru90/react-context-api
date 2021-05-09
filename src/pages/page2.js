@@ -1,9 +1,9 @@
 import React from 'react';
-import Page from "../components/page2.jsx"
+import Page from "../components/comp2.jsx"
 import MyContext from "../context_api/MyContext"
 
 
-export default function Page1(props) {
+export default function Page2(props) {
     return (
         <MyContext.Consumer>
             {
